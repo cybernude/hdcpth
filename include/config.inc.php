@@ -1,8 +1,8 @@
 <?php
 extract($_POST);extract($_GET);extract($_REQUEST);//extract($_SESSION);
- $host = "110.77.137.82" ;
+ $host = "localhost" ;
   $user = "root" ;
-  $pass = "##l6i=yp##" ;
+  $pass = "212224" ;
   $db = "hdc" ;
   global $conn;
 
